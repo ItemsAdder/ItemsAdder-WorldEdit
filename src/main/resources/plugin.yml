@@ -1,0 +1,7 @@
+name: ItemsAdder-WorldEdit
+version: 1.1.2
+main: dev.lone.iaedit.Main
+api-version: 1.13
+depend:
+  - WorldEdit
+  - ItemsAdder
